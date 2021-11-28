@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://partyparrot.tk</id>
+    <id>https://blog.partyparrot.tk</id>
     <title>PartyParrot&apos;s blog</title>
-    <updated>2021-11-28T10:19:22.155Z</updated>
+    <updated>2021-11-28T10:22:07.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://partyparrot.tk"/>
-    <link rel="self" href="https://partyparrot.tk/atom.xml"/>
+    <link rel="alternate" href="https://blog.partyparrot.tk"/>
+    <link rel="self" href="https://blog.partyparrot.tk/atom.xml"/>
     <subtitle>一个只会瞎写Python而且C++学了没多久就忘了的垃圾程序猿</subtitle>
-    <logo>https://partyparrot.tk/images/avatar.png</logo>
-    <icon>https://partyparrot.tk/favicon.ico</icon>
+    <logo>https://blog.partyparrot.tk/images/avatar.png</logo>
+    <icon>https://blog.partyparrot.tk/favicon.ico</icon>
     <rights>All rights reserved 2021, PartyParrot&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello, World!]]></title>
-        <id>https://partyparrot.tk/post/DC9BWgdM_/</id>
-        <link href="https://partyparrot.tk/post/DC9BWgdM_/">
+        <id>https://blog.partyparrot.tk/post/DC9BWgdM_/</id>
+        <link href="https://blog.partyparrot.tk/post/DC9BWgdM_/">
         </link>
         <updated>2021-11-28T03:14:35.000Z</updated>
         <content type="html"><![CDATA[<p><strong>欢迎！</strong><br>
